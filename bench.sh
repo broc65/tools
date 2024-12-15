@@ -79,7 +79,6 @@ speed() {
     speed_test '21541' 'i3D.net, US'
     speed_test '50467' 'Verizon, JP'
     speed_test '232' 'Stocade, NL'
-    speed_test '61296' 'HKIX, HK'
 }
 
 io_test() {

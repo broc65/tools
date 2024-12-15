@@ -76,7 +76,7 @@ speed_test() {
 speed() {
     speed_test '6612' 'FirstMedia, ID'
     speed_test '2054' 'ViewQwest, SG'
-    speed_test '21541' 'i3D.net, US'
+    speed_test '58346' 'Spectrum, US'
     speed_test '50467' 'Verizon, JP'
     speed_test '232' 'Stocade, NL'
 }

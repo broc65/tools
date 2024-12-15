@@ -74,14 +74,12 @@ speed_test() {
 }
 
 speed() {
-    speed_test '14325' 'Jakarta, ID'
-    speed_test '21541' 'Los Angeles, US'
-    speed_test '40879' 'Montreal, CA'
-    speed_test '28922' 'Amsterdam, NL'
-    speed_test '32155' 'Hongkong, CN'
-    speed_test '23647' 'Mumbai, IN'
-    speed_test '13623' 'Singapore, SG'
-    speed_test '21569' 'Tokyo, JP'
+    speed_test '14325' 'PT. Indosat Tbk, ID'
+    speed_test '13623' 'Singtel, SG'
+    speed_test '21541' 'i3D.net, US'
+    speed_test '50686' 'GSL Networks, JP'
+    speed_test '5302' 'Previder BV, NL'
+    speed_test '61296' 'HKIX, HK'
 }
 
 io_test() {
